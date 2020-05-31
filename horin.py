@@ -59,7 +59,7 @@ logo = """
       ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
         "*$bd$$$$      '*$$$$$$$$$$$o+#"
              """"          """""""
-CREAT BY SAQIB UR REHMAN
+
 starting..
 start.
 def tik():
